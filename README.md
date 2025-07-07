@@ -13,7 +13,7 @@ AWS-Language-Translator/
 │ └── ...
 └── TranslationBot/ 
 
-# AWS Lambda Java backend
+## AWS Lambda Java backend
 ├── src/
 ├── pom.xml
 └── ...
