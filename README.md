@@ -11,7 +11,9 @@ AWS-Language-Translator/
 │ ├── index.html
 │ ├── package.json
 │ └── ...
-└── TranslationBot/ # AWS Lambda Java backend
+└── TranslationBot/ 
+
+# AWS Lambda Java backend
 ├── src/
 ├── pom.xml
 └── ...
