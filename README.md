@@ -7,7 +7,8 @@ A full-stack language translation application using **React (frontend)** and **A
 ## 📁 Project Structure
 
 AWS-Language-Translator/
-├── Frontend/ # React-based UI
+├── Frontend/ 
+# React-based UI
 │ ├── index.html
 │ ├── package.json
 │ └── ...
