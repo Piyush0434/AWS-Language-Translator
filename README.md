@@ -68,4 +68,4 @@ Deploy the .jar to AWS Lambda:
 
 Set handler in Lambda to: com.example.lambdafunction.YourHandlerClass::handleRequest
 
-Ensure AmazonTranslateFullAccess permissions are set
+Ensure AmazonTranslateFullAccess permissions are set 
