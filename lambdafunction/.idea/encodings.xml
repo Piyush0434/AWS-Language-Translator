@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+<<<<<<< HEAD
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/TranslationBot/src/main/java" charset="UTF-8" />
+>>>>>>> c6aacec19176bb62b39bb028b7accc4059566617
+  </component>
+</project>
